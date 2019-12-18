@@ -1,0 +1,3 @@
+[submodule "Extern/EpiLib"]
+	path = Extern/EpiLib
+	url = https://github.com/YehorDzhurynskyi/EpiLib
